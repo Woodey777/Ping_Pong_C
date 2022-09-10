@@ -127,7 +127,7 @@ int main() {
             printf("\nPlayer_2 won the game!\n\n");
             break;
         }
-        system("sleep 0.2*");
+        system("sleep 0.3");
     }
     return 0;
 }
